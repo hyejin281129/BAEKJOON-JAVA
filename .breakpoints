@@ -8,18 +8,20 @@
         "index": 0
       }
     ],
+    "Backjoon_9498.java": [
+      {
+        "id": "fad5040f-1928-43a9-b13f-85514b62790f",
+        "line": 10,
+        "version": 9,
+        "index": 206
+      }
+    ],
     "Main.java": [
       {
         "id": "98d200d6-862a-43f5-9530-35942b82bcff",
-        "line": 15,
-        "version": 952,
-        "index": 395
-      },
-      {
-        "id": "cb452098-b1a7-4bb9-b9af-a086f22d07f9",
-        "line": 18,
-        "version": 952,
-        "index": 478
+        "line": 5,
+        "version": 1496,
+        "index": 87
       }
     ]
   }

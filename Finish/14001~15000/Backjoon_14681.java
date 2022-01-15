@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class Backjoon_14681 {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     int x,y;
